@@ -1,0 +1,9 @@
+import MetaphysicsCausationLemmaCanonicalLaneLean.Basic
+
+namespace HautevilleHouse
+namespace MetaphysicsCausationLemmaCanonicalLaneLean
+
+-- This module is the root of the MetaphysicsCausationLemmaCanonicalLaneLean Lean proof package.
+
+end MetaphysicsCausationLemmaCanonicalLaneLean
+end HautevilleHouse
